@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf78fb99-8ce1-4e46-84ef-bbb679c83ab9" name="ai1" url="http://202.120.39.51">
+        <fileTransfer host="202.120.39.51" port="40022" accessType="SFTP" password="df9bdf98df99df9edf9fdf9c" username="yuqiaojun">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d0abc9ab-d6a4-45ce-9d4d-25ce7e93bc15" name="52" url="http://202.120.39.52">
+        <fileTransfer host="202.120.39.52" port="10022" accessType="SFTP" password="df9bdf98df99df9edf9fdf9c" username="yuqiaojun">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
