@@ -1,8 +1,8 @@
 # RL_basic
 
 1. Basic algorithm
-    'DQN'
-    'PG'
+  DQN
+  PG
     'AC'
     'DDPG'
     'SAC'
