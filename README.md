@@ -1,4 +1,5 @@
 # RL_basic
+This project is a collection of the basic algorithms of reinforcement learning, based on `pytorch 1.2.0` and `python 3.7`
 
 ## Basic algorithm
 1. DQN
